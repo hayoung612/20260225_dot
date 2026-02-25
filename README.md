@@ -1,4 +1,7 @@
 # 20260225_dot
+
+
+
 #pragma warning (disable:4996)
 #include <stdio.h>
 #define MAP_WIDTH  10
